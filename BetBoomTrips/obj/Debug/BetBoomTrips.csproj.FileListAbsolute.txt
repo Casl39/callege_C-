@@ -1,0 +1,14 @@
+C:\Users\10240783\source\repos\BetBoomTrips\BetBoomTrips\bin\Debug\BetBoomTrips.exe.config
+C:\Users\10240783\source\repos\BetBoomTrips\BetBoomTrips\bin\Debug\BetBoomTrips.exe
+C:\Users\10240783\source\repos\BetBoomTrips\BetBoomTrips\bin\Debug\BetBoomTrips.pdb
+C:\Users\10240783\source\repos\BetBoomTrips\BetBoomTrips\obj\Debug\BetBoomTrips.csproj.AssemblyReference.cache
+C:\Users\10240783\source\repos\BetBoomTrips\BetBoomTrips\obj\Debug\BetBoomTrips.Afto.resources
+C:\Users\10240783\source\repos\BetBoomTrips\BetBoomTrips\obj\Debug\BetBoomTrips.Properties.Resources.resources
+C:\Users\10240783\source\repos\BetBoomTrips\BetBoomTrips\obj\Debug\BetBoomTrips.csproj.GenerateResource.cache
+C:\Users\10240783\source\repos\BetBoomTrips\BetBoomTrips\obj\Debug\BetBoomTrips.csproj.CoreCompileInputs.cache
+C:\Users\10240783\source\repos\BetBoomTrips\BetBoomTrips\obj\Debug\BetBoomTrips.exe
+C:\Users\10240783\source\repos\BetBoomTrips\BetBoomTrips\obj\Debug\BetBoomTrips.pdb
+C:\Users\10240783\source\repos\BetBoomTrips\BetBoomTrips\obj\Debug\BetBoomTrips.exe.config
+C:\Users\10240783\source\repos\BetBoomTrips\BetBoomTrips\obj\Debug\BetBoomTrips.regist.resources
+C:\Users\10240783\source\repos\BetBoomTrips\BetBoomTrips\obj\Debug\BetBoomTrips.vasVidno.resources
+C:\Users\10240783\source\repos\BetBoomTrips\BetBoomTrips\obj\Debug\BetBoomTrips.AddTrips.resources
